@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Página Inicial</title>
+</head>
+<body>
+    <h1>Olá, mundo!</h1>
+    <p>Bem-vindo à sua página HTML básica.</p>
+
+    <h2>Tópicos sobre Aviação</h2>
+    <ul>
+        <li>História da Aviação</li>
+        <li>Principais Tipos de Aeronaves</li>
+        <li>Como Funciona um Avião</li>
+        <li>Grandes Inventores e Pioneiros</li>
+        <li>Aviação Comercial vs. Aviação Militar</li>
+        <li>Segurança na Aviação</li>
+        <li>Curiosidades sobre Voos</li>
+    </ul>
+</body>
+</html>
